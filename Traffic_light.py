@@ -19,5 +19,6 @@ def traffic_light():
             print(" Goodbye!")
             break
 
-            
+
+           
 traffic_light()
